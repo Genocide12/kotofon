@@ -1,0 +1,14 @@
+{
+  "name": "КотоОхота для Генача",
+  "short_name": "КотоОхота",
+  "description": "Игра для кота: рыбка, мышка и перышко охотятся на экране телефона.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101a30",
+  "theme_color": "#101a30",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
+
